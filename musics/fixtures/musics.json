@@ -1,0 +1,80 @@
+[
+{
+  "model": "musics.artist",
+  "pk": 1,
+  "fields": {
+    "name": "BTS"
+  }
+},
+{
+  "model": "musics.artist",
+  "pk": 2,
+  "fields": {
+    "name": "\ud2b8\uc640\uc774\uc2a4"
+  }
+},
+{
+  "model": "musics.music",
+  "pk": 1,
+  "fields": {
+    "artist": 1,
+    "title": "DNA"
+  }
+},
+{
+  "model": "musics.music",
+  "pk": 2,
+  "fields": {
+    "artist": 1,
+    "title": "\uc791\uc740 \uac83\ub4e4\uc744 \uc704\ud55c \uc2dc"
+  }
+},
+{
+  "model": "musics.music",
+  "pk": 3,
+  "fields": {
+    "artist": 2,
+    "title": "FANCY"
+  }
+},
+{
+  "model": "musics.music",
+  "pk": 4,
+  "fields": {
+    "artist": 2,
+    "title": "Feel Special"
+  }
+},
+{
+  "model": "musics.music",
+  "pk": 5,
+  "fields": {
+    "artist": 2,
+    "title": "Dance The Night Away"
+  }
+},
+{
+  "model": "musics.music",
+  "pk": 6,
+  "fields": {
+    "artist": 1,
+    "title": "IDOL"
+  }
+},
+{
+  "model": "musics.music",
+  "pk": 7,
+  "fields": {
+    "artist": 2,
+    "title": "YES or YES"
+  }
+},
+{
+  "model": "musics.music",
+  "pk": 8,
+  "fields": {
+    "artist": 1,
+    "title": "\ubd04\ub0a0"
+  }
+}
+]
